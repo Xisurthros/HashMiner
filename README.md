@@ -1,0 +1,2 @@
+# BitcoinMiner
+Hash miner
